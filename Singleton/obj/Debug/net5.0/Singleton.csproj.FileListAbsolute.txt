@@ -1,0 +1,16 @@
+C:\Users\Ranee\source\repos\Singleton\Singleton\bin\Debug\net5.0\Singleton.exe
+C:\Users\Ranee\source\repos\Singleton\Singleton\bin\Debug\net5.0\Singleton.deps.json
+C:\Users\Ranee\source\repos\Singleton\Singleton\bin\Debug\net5.0\Singleton.runtimeconfig.json
+C:\Users\Ranee\source\repos\Singleton\Singleton\bin\Debug\net5.0\Singleton.runtimeconfig.dev.json
+C:\Users\Ranee\source\repos\Singleton\Singleton\bin\Debug\net5.0\Singleton.dll
+C:\Users\Ranee\source\repos\Singleton\Singleton\bin\Debug\net5.0\ref\Singleton.dll
+C:\Users\Ranee\source\repos\Singleton\Singleton\bin\Debug\net5.0\Singleton.pdb
+C:\Users\Ranee\source\repos\Singleton\Singleton\obj\Debug\net5.0\Singleton.csprojAssemblyReference.cache
+C:\Users\Ranee\source\repos\Singleton\Singleton\obj\Debug\net5.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ranee\source\repos\Singleton\Singleton\obj\Debug\net5.0\Singleton.AssemblyInfoInputs.cache
+C:\Users\Ranee\source\repos\Singleton\Singleton\obj\Debug\net5.0\Singleton.AssemblyInfo.cs
+C:\Users\Ranee\source\repos\Singleton\Singleton\obj\Debug\net5.0\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\Ranee\source\repos\Singleton\Singleton\obj\Debug\net5.0\Singleton.dll
+C:\Users\Ranee\source\repos\Singleton\Singleton\obj\Debug\net5.0\ref\Singleton.dll
+C:\Users\Ranee\source\repos\Singleton\Singleton\obj\Debug\net5.0\Singleton.pdb
+C:\Users\Ranee\source\repos\Singleton\Singleton\obj\Debug\net5.0\Singleton.genruntimeconfig.cache
