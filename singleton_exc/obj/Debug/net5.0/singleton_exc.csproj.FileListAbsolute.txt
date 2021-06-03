@@ -1,0 +1,15 @@
+/Users/afra/Projects/singleton_exc/singleton_exc/bin/Debug/net5.0/singleton_exc.deps.json
+/Users/afra/Projects/singleton_exc/singleton_exc/bin/Debug/net5.0/singleton_exc.runtimeconfig.json
+/Users/afra/Projects/singleton_exc/singleton_exc/bin/Debug/net5.0/singleton_exc.runtimeconfig.dev.json
+/Users/afra/Projects/singleton_exc/singleton_exc/bin/Debug/net5.0/singleton_exc.dll
+/Users/afra/Projects/singleton_exc/singleton_exc/bin/Debug/net5.0/ref/singleton_exc.dll
+/Users/afra/Projects/singleton_exc/singleton_exc/bin/Debug/net5.0/singleton_exc.pdb
+/Users/afra/Projects/singleton_exc/singleton_exc/obj/Debug/net5.0/singleton_exc.csprojAssemblyReference.cache
+/Users/afra/Projects/singleton_exc/singleton_exc/obj/Debug/net5.0/singleton_exc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/afra/Projects/singleton_exc/singleton_exc/obj/Debug/net5.0/singleton_exc.AssemblyInfoInputs.cache
+/Users/afra/Projects/singleton_exc/singleton_exc/obj/Debug/net5.0/singleton_exc.AssemblyInfo.cs
+/Users/afra/Projects/singleton_exc/singleton_exc/obj/Debug/net5.0/singleton_exc.csproj.CoreCompileInputs.cache
+/Users/afra/Projects/singleton_exc/singleton_exc/obj/Debug/net5.0/singleton_exc.dll
+/Users/afra/Projects/singleton_exc/singleton_exc/obj/Debug/net5.0/ref/singleton_exc.dll
+/Users/afra/Projects/singleton_exc/singleton_exc/obj/Debug/net5.0/singleton_exc.pdb
+/Users/afra/Projects/singleton_exc/singleton_exc/obj/Debug/net5.0/singleton_exc.genruntimeconfig.cache
