@@ -1,0 +1,15 @@
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/ProjectSingleton/ProjectSingleton/bin/Debug/net5.0/ProjectSingleton.deps.json
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/ProjectSingleton/ProjectSingleton/bin/Debug/net5.0/ProjectSingleton.runtimeconfig.json
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/ProjectSingleton/ProjectSingleton/bin/Debug/net5.0/ProjectSingleton.runtimeconfig.dev.json
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/ProjectSingleton/ProjectSingleton/bin/Debug/net5.0/ProjectSingleton.dll
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/ProjectSingleton/ProjectSingleton/bin/Debug/net5.0/ref/ProjectSingleton.dll
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/ProjectSingleton/ProjectSingleton/bin/Debug/net5.0/ProjectSingleton.pdb
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/ProjectSingleton/ProjectSingleton/obj/Debug/net5.0/ProjectSingleton.csprojAssemblyReference.cache
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/ProjectSingleton/ProjectSingleton/obj/Debug/net5.0/ProjectSingleton.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/ProjectSingleton/ProjectSingleton/obj/Debug/net5.0/ProjectSingleton.AssemblyInfoInputs.cache
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/ProjectSingleton/ProjectSingleton/obj/Debug/net5.0/ProjectSingleton.AssemblyInfo.cs
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/ProjectSingleton/ProjectSingleton/obj/Debug/net5.0/ProjectSingleton.csproj.CoreCompileInputs.cache
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/ProjectSingleton/ProjectSingleton/obj/Debug/net5.0/ProjectSingleton.dll
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/ProjectSingleton/ProjectSingleton/obj/Debug/net5.0/ref/ProjectSingleton.dll
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/ProjectSingleton/ProjectSingleton/obj/Debug/net5.0/ProjectSingleton.pdb
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/ProjectSingleton/ProjectSingleton/obj/Debug/net5.0/ProjectSingleton.genruntimeconfig.cache
