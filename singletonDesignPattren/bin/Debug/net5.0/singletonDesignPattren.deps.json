@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "singletonDesignPattren/1.0.0": {
+        "runtime": {
+          "singletonDesignPattren.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "singletonDesignPattren/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

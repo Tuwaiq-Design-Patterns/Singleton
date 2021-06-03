@@ -1,0 +1,16 @@
+C:\Users\Norah\source\repos\singletonDesignPattren\singletonDesignPattren\bin\Debug\net5.0\singletonDesignPattren.exe
+C:\Users\Norah\source\repos\singletonDesignPattren\singletonDesignPattren\bin\Debug\net5.0\singletonDesignPattren.deps.json
+C:\Users\Norah\source\repos\singletonDesignPattren\singletonDesignPattren\bin\Debug\net5.0\singletonDesignPattren.runtimeconfig.json
+C:\Users\Norah\source\repos\singletonDesignPattren\singletonDesignPattren\bin\Debug\net5.0\singletonDesignPattren.runtimeconfig.dev.json
+C:\Users\Norah\source\repos\singletonDesignPattren\singletonDesignPattren\bin\Debug\net5.0\singletonDesignPattren.dll
+C:\Users\Norah\source\repos\singletonDesignPattren\singletonDesignPattren\bin\Debug\net5.0\ref\singletonDesignPattren.dll
+C:\Users\Norah\source\repos\singletonDesignPattren\singletonDesignPattren\bin\Debug\net5.0\singletonDesignPattren.pdb
+C:\Users\Norah\source\repos\singletonDesignPattren\singletonDesignPattren\obj\Debug\net5.0\singletonDesignPattren.csprojAssemblyReference.cache
+C:\Users\Norah\source\repos\singletonDesignPattren\singletonDesignPattren\obj\Debug\net5.0\singletonDesignPattren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Norah\source\repos\singletonDesignPattren\singletonDesignPattren\obj\Debug\net5.0\singletonDesignPattren.AssemblyInfoInputs.cache
+C:\Users\Norah\source\repos\singletonDesignPattren\singletonDesignPattren\obj\Debug\net5.0\singletonDesignPattren.AssemblyInfo.cs
+C:\Users\Norah\source\repos\singletonDesignPattren\singletonDesignPattren\obj\Debug\net5.0\singletonDesignPattren.csproj.CoreCompileInputs.cache
+C:\Users\Norah\source\repos\singletonDesignPattren\singletonDesignPattren\obj\Debug\net5.0\singletonDesignPattren.dll
+C:\Users\Norah\source\repos\singletonDesignPattren\singletonDesignPattren\obj\Debug\net5.0\ref\singletonDesignPattren.dll
+C:\Users\Norah\source\repos\singletonDesignPattren\singletonDesignPattren\obj\Debug\net5.0\singletonDesignPattren.pdb
+C:\Users\Norah\source\repos\singletonDesignPattren\singletonDesignPattren\obj\Debug\net5.0\singletonDesignPattren.genruntimeconfig.cache
