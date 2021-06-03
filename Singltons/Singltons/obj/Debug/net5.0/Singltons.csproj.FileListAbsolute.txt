@@ -1,0 +1,16 @@
+C:\Users\Adel_Kalu\source\repos\Singltons\Singltons\bin\Debug\net5.0\Singltons.exe
+C:\Users\Adel_Kalu\source\repos\Singltons\Singltons\bin\Debug\net5.0\Singltons.deps.json
+C:\Users\Adel_Kalu\source\repos\Singltons\Singltons\bin\Debug\net5.0\Singltons.runtimeconfig.json
+C:\Users\Adel_Kalu\source\repos\Singltons\Singltons\bin\Debug\net5.0\Singltons.runtimeconfig.dev.json
+C:\Users\Adel_Kalu\source\repos\Singltons\Singltons\bin\Debug\net5.0\Singltons.dll
+C:\Users\Adel_Kalu\source\repos\Singltons\Singltons\bin\Debug\net5.0\ref\Singltons.dll
+C:\Users\Adel_Kalu\source\repos\Singltons\Singltons\bin\Debug\net5.0\Singltons.pdb
+C:\Users\Adel_Kalu\source\repos\Singltons\Singltons\obj\Debug\net5.0\Singltons.csproj.AssemblyReference.cache
+C:\Users\Adel_Kalu\source\repos\Singltons\Singltons\obj\Debug\net5.0\Singltons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adel_Kalu\source\repos\Singltons\Singltons\obj\Debug\net5.0\Singltons.AssemblyInfoInputs.cache
+C:\Users\Adel_Kalu\source\repos\Singltons\Singltons\obj\Debug\net5.0\Singltons.AssemblyInfo.cs
+C:\Users\Adel_Kalu\source\repos\Singltons\Singltons\obj\Debug\net5.0\Singltons.csproj.CoreCompileInputs.cache
+C:\Users\Adel_Kalu\source\repos\Singltons\Singltons\obj\Debug\net5.0\Singltons.dll
+C:\Users\Adel_Kalu\source\repos\Singltons\Singltons\obj\Debug\net5.0\ref\Singltons.dll
+C:\Users\Adel_Kalu\source\repos\Singltons\Singltons\obj\Debug\net5.0\Singltons.pdb
+C:\Users\Adel_Kalu\source\repos\Singltons\Singltons\obj\Debug\net5.0\Singltons.genruntimeconfig.cache
