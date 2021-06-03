@@ -1,0 +1,16 @@
+/home/z/tuwaiq/design_patterns/Singleton/bin/Debug/net5.0/Singleton
+/home/z/tuwaiq/design_patterns/Singleton/bin/Debug/net5.0/Singleton.deps.json
+/home/z/tuwaiq/design_patterns/Singleton/bin/Debug/net5.0/Singleton.runtimeconfig.json
+/home/z/tuwaiq/design_patterns/Singleton/bin/Debug/net5.0/Singleton.runtimeconfig.dev.json
+/home/z/tuwaiq/design_patterns/Singleton/bin/Debug/net5.0/Singleton.dll
+/home/z/tuwaiq/design_patterns/Singleton/bin/Debug/net5.0/ref/Singleton.dll
+/home/z/tuwaiq/design_patterns/Singleton/bin/Debug/net5.0/Singleton.pdb
+/home/z/tuwaiq/design_patterns/Singleton/obj/Debug/net5.0/Singleton.csproj.AssemblyReference.cache
+/home/z/tuwaiq/design_patterns/Singleton/obj/Debug/net5.0/Singleton.GeneratedMSBuildEditorConfig.editorconfig
+/home/z/tuwaiq/design_patterns/Singleton/obj/Debug/net5.0/Singleton.AssemblyInfoInputs.cache
+/home/z/tuwaiq/design_patterns/Singleton/obj/Debug/net5.0/Singleton.AssemblyInfo.cs
+/home/z/tuwaiq/design_patterns/Singleton/obj/Debug/net5.0/Singleton.csproj.CoreCompileInputs.cache
+/home/z/tuwaiq/design_patterns/Singleton/obj/Debug/net5.0/Singleton.dll
+/home/z/tuwaiq/design_patterns/Singleton/obj/Debug/net5.0/ref/Singleton.dll
+/home/z/tuwaiq/design_patterns/Singleton/obj/Debug/net5.0/Singleton.pdb
+/home/z/tuwaiq/design_patterns/Singleton/obj/Debug/net5.0/Singleton.genruntimeconfig.cache
