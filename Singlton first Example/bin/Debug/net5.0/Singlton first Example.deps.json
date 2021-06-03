@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Singlton first Example/1.0.0": {
+        "runtime": {
+          "Singlton first Example.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Singlton first Example/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
