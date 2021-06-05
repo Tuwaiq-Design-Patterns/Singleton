@@ -1,0 +1,16 @@
+D:\Developing\Rider\projects\SingleTonTest\SingleTonTest\bin\Debug\net5.0\SingleTonTest.exe
+D:\Developing\Rider\projects\SingleTonTest\SingleTonTest\bin\Debug\net5.0\SingleTonTest.deps.json
+D:\Developing\Rider\projects\SingleTonTest\SingleTonTest\bin\Debug\net5.0\SingleTonTest.runtimeconfig.json
+D:\Developing\Rider\projects\SingleTonTest\SingleTonTest\bin\Debug\net5.0\SingleTonTest.runtimeconfig.dev.json
+D:\Developing\Rider\projects\SingleTonTest\SingleTonTest\bin\Debug\net5.0\SingleTonTest.dll
+D:\Developing\Rider\projects\SingleTonTest\SingleTonTest\bin\Debug\net5.0\ref\SingleTonTest.dll
+D:\Developing\Rider\projects\SingleTonTest\SingleTonTest\bin\Debug\net5.0\SingleTonTest.pdb
+D:\Developing\Rider\projects\SingleTonTest\SingleTonTest\obj\Debug\net5.0\SingleTonTest.csprojAssemblyReference.cache
+D:\Developing\Rider\projects\SingleTonTest\SingleTonTest\obj\Debug\net5.0\SingleTonTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developing\Rider\projects\SingleTonTest\SingleTonTest\obj\Debug\net5.0\SingleTonTest.AssemblyInfoInputs.cache
+D:\Developing\Rider\projects\SingleTonTest\SingleTonTest\obj\Debug\net5.0\SingleTonTest.AssemblyInfo.cs
+D:\Developing\Rider\projects\SingleTonTest\SingleTonTest\obj\Debug\net5.0\SingleTonTest.csproj.CoreCompileInputs.cache
+D:\Developing\Rider\projects\SingleTonTest\SingleTonTest\obj\Debug\net5.0\SingleTonTest.dll
+D:\Developing\Rider\projects\SingleTonTest\SingleTonTest\obj\Debug\net5.0\ref\SingleTonTest.dll
+D:\Developing\Rider\projects\SingleTonTest\SingleTonTest\obj\Debug\net5.0\SingleTonTest.pdb
+D:\Developing\Rider\projects\SingleTonTest\SingleTonTest\obj\Debug\net5.0\SingleTonTest.genruntimeconfig.cache
