@@ -1,0 +1,12 @@
+/Users/arwawanla/Projects/design pattern/singleton/singleton/bin/Debug/netcoreapp3.1/singleton.deps.json
+/Users/arwawanla/Projects/design pattern/singleton/singleton/bin/Debug/netcoreapp3.1/singleton.runtimeconfig.json
+/Users/arwawanla/Projects/design pattern/singleton/singleton/bin/Debug/netcoreapp3.1/singleton.runtimeconfig.dev.json
+/Users/arwawanla/Projects/design pattern/singleton/singleton/bin/Debug/netcoreapp3.1/singleton.dll
+/Users/arwawanla/Projects/design pattern/singleton/singleton/bin/Debug/netcoreapp3.1/singleton.pdb
+/Users/arwawanla/Projects/design pattern/singleton/singleton/obj/Debug/netcoreapp3.1/singleton.csprojAssemblyReference.cache
+/Users/arwawanla/Projects/design pattern/singleton/singleton/obj/Debug/netcoreapp3.1/singleton.AssemblyInfoInputs.cache
+/Users/arwawanla/Projects/design pattern/singleton/singleton/obj/Debug/netcoreapp3.1/singleton.AssemblyInfo.cs
+/Users/arwawanla/Projects/design pattern/singleton/singleton/obj/Debug/netcoreapp3.1/singleton.csproj.CoreCompileInputs.cache
+/Users/arwawanla/Projects/design pattern/singleton/singleton/obj/Debug/netcoreapp3.1/singleton.dll
+/Users/arwawanla/Projects/design pattern/singleton/singleton/obj/Debug/netcoreapp3.1/singleton.pdb
+/Users/arwawanla/Projects/design pattern/singleton/singleton/obj/Debug/netcoreapp3.1/singleton.genruntimeconfig.cache
