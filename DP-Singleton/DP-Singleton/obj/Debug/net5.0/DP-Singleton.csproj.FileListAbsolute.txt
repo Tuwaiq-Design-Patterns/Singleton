@@ -1,0 +1,32 @@
+C:\Users\Yasmin\source\repos\DP-Singleton\DP-Singleton\bin\Debug\net5.0\DP-Singleton.exe
+C:\Users\Yasmin\source\repos\DP-Singleton\DP-Singleton\bin\Debug\net5.0\DP-Singleton.deps.json
+C:\Users\Yasmin\source\repos\DP-Singleton\DP-Singleton\bin\Debug\net5.0\DP-Singleton.runtimeconfig.json
+C:\Users\Yasmin\source\repos\DP-Singleton\DP-Singleton\bin\Debug\net5.0\DP-Singleton.runtimeconfig.dev.json
+C:\Users\Yasmin\source\repos\DP-Singleton\DP-Singleton\bin\Debug\net5.0\DP-Singleton.dll
+C:\Users\Yasmin\source\repos\DP-Singleton\DP-Singleton\bin\Debug\net5.0\ref\DP-Singleton.dll
+C:\Users\Yasmin\source\repos\DP-Singleton\DP-Singleton\bin\Debug\net5.0\DP-Singleton.pdb
+C:\Users\Yasmin\source\repos\DP-Singleton\DP-Singleton\obj\Debug\net5.0\DP-Singleton.csprojAssemblyReference.cache
+C:\Users\Yasmin\source\repos\DP-Singleton\DP-Singleton\obj\Debug\net5.0\DP-Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasmin\source\repos\DP-Singleton\DP-Singleton\obj\Debug\net5.0\DP-Singleton.AssemblyInfoInputs.cache
+C:\Users\Yasmin\source\repos\DP-Singleton\DP-Singleton\obj\Debug\net5.0\DP-Singleton.AssemblyInfo.cs
+C:\Users\Yasmin\source\repos\DP-Singleton\DP-Singleton\obj\Debug\net5.0\DP-Singleton.csproj.CoreCompileInputs.cache
+C:\Users\Yasmin\source\repos\DP-Singleton\DP-Singleton\obj\Debug\net5.0\DP-Singleton.dll
+C:\Users\Yasmin\source\repos\DP-Singleton\DP-Singleton\obj\Debug\net5.0\ref\DP-Singleton.dll
+C:\Users\Yasmin\source\repos\DP-Singleton\DP-Singleton\obj\Debug\net5.0\DP-Singleton.pdb
+C:\Users\Yasmin\source\repos\DP-Singleton\DP-Singleton\obj\Debug\net5.0\DP-Singleton.genruntimeconfig.cache
+C:\Users\Yasmin\Documents\.NET\Design Pattern\DP-Singleton\DP-Singleton\bin\Debug\net5.0\DP-Singleton.exe
+C:\Users\Yasmin\Documents\.NET\Design Pattern\DP-Singleton\DP-Singleton\bin\Debug\net5.0\DP-Singleton.deps.json
+C:\Users\Yasmin\Documents\.NET\Design Pattern\DP-Singleton\DP-Singleton\bin\Debug\net5.0\DP-Singleton.runtimeconfig.json
+C:\Users\Yasmin\Documents\.NET\Design Pattern\DP-Singleton\DP-Singleton\bin\Debug\net5.0\DP-Singleton.runtimeconfig.dev.json
+C:\Users\Yasmin\Documents\.NET\Design Pattern\DP-Singleton\DP-Singleton\bin\Debug\net5.0\DP-Singleton.dll
+C:\Users\Yasmin\Documents\.NET\Design Pattern\DP-Singleton\DP-Singleton\bin\Debug\net5.0\ref\DP-Singleton.dll
+C:\Users\Yasmin\Documents\.NET\Design Pattern\DP-Singleton\DP-Singleton\bin\Debug\net5.0\DP-Singleton.pdb
+C:\Users\Yasmin\Documents\.NET\Design Pattern\DP-Singleton\DP-Singleton\obj\Debug\net5.0\DP-Singleton.csprojAssemblyReference.cache
+C:\Users\Yasmin\Documents\.NET\Design Pattern\DP-Singleton\DP-Singleton\obj\Debug\net5.0\DP-Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasmin\Documents\.NET\Design Pattern\DP-Singleton\DP-Singleton\obj\Debug\net5.0\DP-Singleton.AssemblyInfoInputs.cache
+C:\Users\Yasmin\Documents\.NET\Design Pattern\DP-Singleton\DP-Singleton\obj\Debug\net5.0\DP-Singleton.AssemblyInfo.cs
+C:\Users\Yasmin\Documents\.NET\Design Pattern\DP-Singleton\DP-Singleton\obj\Debug\net5.0\DP-Singleton.csproj.CoreCompileInputs.cache
+C:\Users\Yasmin\Documents\.NET\Design Pattern\DP-Singleton\DP-Singleton\obj\Debug\net5.0\DP-Singleton.dll
+C:\Users\Yasmin\Documents\.NET\Design Pattern\DP-Singleton\DP-Singleton\obj\Debug\net5.0\ref\DP-Singleton.dll
+C:\Users\Yasmin\Documents\.NET\Design Pattern\DP-Singleton\DP-Singleton\obj\Debug\net5.0\DP-Singleton.pdb
+C:\Users\Yasmin\Documents\.NET\Design Pattern\DP-Singleton\DP-Singleton\obj\Debug\net5.0\DP-Singleton.genruntimeconfig.cache
